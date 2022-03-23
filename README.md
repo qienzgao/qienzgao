@@ -1,4 +1,4 @@
-## Hi, I'm [Qien][portfolio] 👋 
+## 👋 Hi, I'm [Qien][portfolio] 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&vCenter=true&lines=I'm+a+coder;I'm+a+foodie;I'm+a+cat-lover;I'm+an+art-lover)
 <!-- #### 👀 I'm a 🧑‍💻 coder 👨‍🍳 foodie 👨‍🎨 art-lover 😻 cat-lover  -->
 
@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-#### 🔭 I create projects like <a href="https://github.com/qienzgao/Pinspire" target="_blank" ><img src="https://img.shields.io/badge/Pinspire-ff69b4?style=for-the-badge" alt="Pinspire Badge"/></a> <a href="https://github.com/qienzgao/interView" target="_blank" ><img src="https://img.shields.io/badge/interView-green?style=for-the-badge" alt="interView Badge"/></a> <a href="https://github.com/qienzgao/Master-of-Potions" target="_blank" ><img src="https://img.shields.io/badge/Master of Potions-blueviolet?style=for-the-badge" alt="Master of Potions Badge"/></a>
+#### 🌟 I create projects like <a href="https://github.com/qienzgao/Pinspire" target="_blank" ><img src="https://img.shields.io/badge/Pinspire-ff69b4?style=for-the-badge" alt="Pinspire Badge"/></a> <a href="https://github.com/qienzgao/interView" target="_blank" ><img src="https://img.shields.io/badge/interView-green?style=for-the-badge" alt="interView Badge"/></a> <a href="https://github.com/qienzgao/Master-of-Potions" target="_blank" ><img src="https://img.shields.io/badge/Master of Potions-blueviolet?style=for-the-badge" alt="Master of Potions Badge"/></a>
 
 #### 🔥 Github stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qienzgao&exclude_repo=KNN-Image-  Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
