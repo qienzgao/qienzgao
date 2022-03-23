@@ -1,5 +1,8 @@
-### Hi there 👋
+### 👋 Hi, I'm Qien 
 
+### ✉️ Get in touch with me
+
+### :runner: Projects I'm working on... 
 <!--
 **qienzgao/qienzgao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+<br/>
+
+[portfolio]: http://qiengao.com
+[linkedin]: https://www.linkedin.com/in/qiengao/
+
 
 
