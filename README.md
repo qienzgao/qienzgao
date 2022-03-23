@@ -1,7 +1,5 @@
 ## 👋 Hi, I'm [Qien][portfolio]
 
-
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&vCenter=true&lines=I'm+a+coder;I'm+a+foodie;I'm+a+cat-lover;I'm+an+art-lover) 
 <p><img src="https://github.com/qienzgao/qienzgao/blob/main/cat.gif" align="right" width="280" height="280"/></p>
 <!-- #### 👀 I'm a 🧑‍💻 coder 👨‍🍳 foodie 👨‍🎨 art-lover 😻 cat-lover  -->
