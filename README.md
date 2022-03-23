@@ -1,8 +1,14 @@
 ### 👋 Hi, I'm Qien 
+## :technologist: :cook: :artist: I love code , food && art! 
+- :globe_with_meridians: Take a peek on my [portfolio][portfolio]!
 
-### ✉️ Get in touch with me
+### 📫 Get in touch with me
+## :email: Shoot me an [email](mailto:lunde@adobe.com?subject=[GitHub]) || message me on [LinkedIn][linkedin]
 
-### :runner: Projects I'm working on... 
+### 🔭 Projects I'm working on... 
+- [Pinspire](https://github.com/qienzgao/Pinspire)
+- [interView](https://github.com/qienzgao/interView)
+- [Master of Potions](https://github.com/qienzgao/Master-of-Potions)
 <!--
 **qienzgao/qienzgao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
