@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&vCenter=true&lines=I'm+a+coder;I'm+a+foodie;I'm+a+cat-lover;I'm+an+art-lover)
 <!-- #### 👀 I'm a 🧑‍💻 coder 👨‍🍳 foodie 👨‍🎨 art-lover 😻 cat-lover  -->
 
-#### 🔭 I’m currently working on <a href="https://github.com/qienzgao/Pinspire" target="_blank" ><img src="https://img.shields.io/badge/Pinspire-ff69b4?style=for-the-badge" alt="Pinspire Badge"/></a>, a <img src="https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Email Badge"/> clone project
+#### 🔭 I’m currently working on <a href="https://github.com/qienzgao/Pinspire" target="_blank" ><img src="https://img.shields.io/badge/Pinspire-ff69b4?style=for-the-badge" alt="Pinspire Badge"/></a>, a clone project of <a href="https://www.pinterest.com/"><img src="https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Email Badge"/></a> 
 
 #### 📫 Reach me via <a href="https://www.linkedin.com/in/qiengao" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> or <a href="mailto:qienzgao@gmail.com?subject=[GitHub]" target="_blank" ><img src="https://img.shields.io/badge/Email-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a> 
 
