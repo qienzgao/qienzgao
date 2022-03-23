@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-#### 🌟 Take a peek of these projects I created:
+#### 🌟 Take a peek of these projects my team and I created:
 <a href="https://github.com/qienzgao/Pinspire" target="_blank" ><img src="https://img.shields.io/badge/Pinspire-ff69b4?style=for-the-badge" alt="Pinspire Badge"/></a> <a href="https://github.com/qienzgao/interView" target="_blank" ><img src="https://img.shields.io/badge/interView-green?style=for-the-badge" alt="interView Badge"/></a> <a href="https://github.com/qienzgao/Master-of-Potions" target="_blank" ><img src="https://img.shields.io/badge/Master of Potions-blueviolet?style=for-the-badge" alt="Master of Potions Badge"/></a> 
 
 
