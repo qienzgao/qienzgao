@@ -7,7 +7,7 @@
 
 #### 🔭 I’m currently working on <a href="https://github.com/qienzgao/Pinspire" target="_blank" ><img src="https://img.shields.io/badge/Pinspire-ff69b4?style=for-the-badge" alt="Pinspire Badge"/></a>, a clone project of <a href="https://www.pinterest.com/"><img src="https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Email Badge"/></a> 
 
-#### 📫 Reach me via <a href="https://www.linkedin.com/in/qiengao" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> or <a href="mailto:qienzgao@gmail.com?subject=[GitHub]" target="_blank" ><img src="https://img.shields.io/badge/Email-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a> 
+#### 📫 Reach me via <a href="https://www.linkedin.com/in/qiengao" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://angel.co/u/qien-gao" target="_blank" ><img src="https://img.shields.io/badge/AngelList-orange?style=for-the-badge&logo=angellist&logoColor=white" alt="LinkedIn Badge"/></a> or shoot me an <a href="mailto:qienzgao@gmail.com?subject=[GitHub]" target="_blank" ><img src="https://img.shields.io/badge/Email-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a> 
 
 #### 💼 Languages and tools I use
 <br/>
@@ -30,7 +30,8 @@
 <br/>
 <br/>
 
-#### 🌟 I create projects like <a href="https://github.com/qienzgao/Pinspire" target="_blank" ><img src="https://img.shields.io/badge/Pinspire-ff69b4?style=for-the-badge" alt="Pinspire Badge"/></a> <a href="https://github.com/qienzgao/interView" target="_blank" ><img src="https://img.shields.io/badge/interView-green?style=for-the-badge" alt="interView Badge"/></a> <a href="https://github.com/qienzgao/Master-of-Potions" target="_blank" ><img src="https://img.shields.io/badge/Master of Potions-blueviolet?style=for-the-badge" alt="Master of Potions Badge"/></a>
+#### 🌟 Take a peek of these projects I created:
+<a href="https://github.com/qienzgao/Pinspire" target="_blank" ><img src="https://img.shields.io/badge/Pinspire-ff69b4?style=for-the-badge" alt="Pinspire Badge"/></a> <a href="https://github.com/qienzgao/interView" target="_blank" ><img src="https://img.shields.io/badge/interView-green?style=for-the-badge" alt="interView Badge"/></a> <a href="https://github.com/qienzgao/Master-of-Potions" target="_blank" ><img src="https://img.shields.io/badge/Master of Potions-blueviolet?style=for-the-badge" alt="Master of Potions Badge"/></a> 
 
 
 #### 🔥 My Github stats
