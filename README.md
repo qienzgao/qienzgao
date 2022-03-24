@@ -3,6 +3,7 @@
 
 #### 🔭 I’m currently working on <a href="https://github.com/qienzgao/Pinspire" target="_blank" ><img src="https://img.shields.io/badge/Pinspire-ff69b4?style=for-the-badge" alt="Pinspire Badge"/></a>, a clone project of <a href="https://www.pinterest.com/"><img src="https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Email Badge"/></a> 
 
+<br/>
 <p><img src="https://github.com/qienzgao/qienzgao/blob/main/cat.gif" align="right" width="250" height="250"/></p>
 
 #### 📫 Reach me via <a href="https://www.linkedin.com/in/qiengao" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://angel.co/u/qien-gao" target="_blank" ><img src="https://img.shields.io/badge/AngelList-orange?style=for-the-badge&logo=angellist&logoColor=white" alt="LinkedIn Badge"/></a> or shoot me an <a href="mailto:qienzgao@gmail.com?subject=[GitHub]" target="_blank" ><img src="https://img.shields.io/badge/Email-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a> 
