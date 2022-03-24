@@ -1,7 +1,7 @@
 <a href="http://qiengao.com" ><img src="https://github.com/qienzgao/qienzgao/blob/main/catbanner2.gif" /></a>
 
 ## 👋 Hi, I'm [Qien][portfolio]
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&vCenter=true&lines=I'm+a+coder;I'm+a+foodie;I'm+a+cat-lover;I'm+an+art-lover) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&vCenter=true&lines=I'm+a+coder;I'm+a+foodie;I'm+a+cat-lover;I'm+an+artist) 
 
 #### 🔭 I’m currently working on <a href="https://github.com/qienzgao/Pinspire" target="_blank" ><img src="https://img.shields.io/badge/Pinspire-FF6347?style=for-the-badge" alt="Pinspire Badge"/></a>, a clone project of <a href="https://www.pinterest.com/"><img src="https://img.shields.io/badge/Pinterest-e60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Email Badge"/></a> 
 
