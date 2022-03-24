@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm [Qien][portfolio]
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&vCenter=true&lines=I'm+a+coder;I'm+a+foodie;I'm+a+cat-lover;I'm+an+art-lover) 
 
-#### 🔭 I’m currently working on <a href="https://github.com/qienzgao/Pinspire" target="_blank" ><img src="https://img.shields.io/badge/Pinspire-ff69b4?style=for-the-badge" alt="Pinspire Badge"/></a>, a clone project of <a href="https://www.pinterest.com/"><img src="https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Email Badge"/></a> 
+#### 🔭 I’m currently working on <a href="https://github.com/qienzgao/Pinspire" target="_blank" ><img src="https://img.shields.io/badge/Pinspire-FF6347?style=for-the-badge" alt="Pinspire Badge"/></a>, a clone project of <a href="https://www.pinterest.com/"><img src="https://img.shields.io/badge/Pinterest-e60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Email Badge"/></a> 
 
-#### 📫 Reach me via <a href="https://www.linkedin.com/in/qiengao" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://angel.co/u/qien-gao" target="_blank" ><img src="https://img.shields.io/badge/AngelList-orange?style=for-the-badge&logo=angellist&logoColor=white" alt="LinkedIn Badge"/></a> or shoot me an <a href="mailto:qienzgao@gmail.com?subject=[GitHub]" target="_blank" ><img src="https://img.shields.io/badge/Email-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a> 
+#### 📫 Reach me via <a href="https://www.linkedin.com/in/qiengao" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://angel.co/u/qien-gao" target="_blank" ><img src="https://img.shields.io/badge/AngelList-black?style=for-the-badge&logo=angellist&logoColor=white" alt="LinkedIn Badge"/></a> or shoot me an <a href="mailto:qienzgao@gmail.com?subject=[GitHub]" target="_blank" ><img src="https://img.shields.io/badge/Email-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a> 
 
 <p><img src="https://github.com/qienzgao/qienzgao/blob/main/cat.gif" align="right" width="250" height="200"/></p>
 
@@ -30,7 +30,7 @@
 
 #### 🌟 Take a peek of these projects my team and I created:
 <a href="https://github.com/qienzgao/Pinspire" target="_blank" >
-  <img src="https://img.shields.io/badge/Pinspire-ff69b4?style=for-the-badge" alt="Pinspire Badge"/>
+  <img src="https://img.shields.io/badge/Pinspire-FF6347?style=for-the-badge" alt="Pinspire Badge"/>
 </a>
 
 <a href="https://github.com/qienzgao/Master-of-Potions" target="_blank" >
@@ -38,7 +38,7 @@
 </a> 
 
 <a href="https://github.com/qienzgao/interView" target="_blank" >
-  <img src="https://img.shields.io/badge/interView-green?style=for-the-badge" alt="interView Badge"/>
+  <img src="https://img.shields.io/badge/interView-146450?style=for-the-badge" alt="interView Badge"/>
 </a> 
 
 <a href="https://pinspire-project.herokuapp.com/#/" target="_blank"><img src="https://github.com/qienzgao/qienzgao/blob/main/pinspire_preview.gif" width="260"/></a> <a href="https://qienzgao.github.io/Master-of-Potions/" target="_blank"><img src="https://github.com/qienzgao/qienzgao/blob/main/mop_pre.gif" width="260"/></a>  <a href="https://interview-mern.herokuapp.com/#/" target="_blank"><img src="https://github.com/qienzgao/qienzgao/blob/main/iv.gif" width="260"/></a>
