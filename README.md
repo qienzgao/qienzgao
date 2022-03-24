@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/interView-green?style=for-the-badge" alt="interView Badge"/>
 </a> 
 
-<img src="https://github.com/qienzgao/qienzgao/blob/main/pinspire_preview.gif" width="260"/> <img src="https://github.com/qienzgao/qienzgao/blob/main/mop_pre.gif" width="260"/>  <img src="https://github.com/qienzgao/qienzgao/blob/main/mop_pre.gif" width="260"/>
+<a href="https://pinspire-project.herokuapp.com/#/" target="_blank"><img src="https://github.com/qienzgao/qienzgao/blob/main/pinspire_preview.gif" width="260"/></a> <a href="https://qienzgao.github.io/Master-of-Potions/" target="_blank"><img src="https://github.com/qienzgao/qienzgao/blob/main/mop_pre.gif" width="260"/></a>  <a href="https://interview-mern.herokuapp.com/#/" target="_blank"><img src="https://github.com/qienzgao/qienzgao/blob/main/iv.gif" width="260"/></a>
 
 #### 🔥 My Github stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qienzgao&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qienzgao&exclude_repo=KNN-Image-  Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
