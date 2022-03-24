@@ -48,6 +48,18 @@
 <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=qienzgao&hide_border=true" /> -->
 
 <!--START_SECTION:waka-->
+
+```text
+From: 17 March 2022 - To: 24 March 2022
+
+Markdown     46 mins         █████████████░░░░░░░░░░░░   51.75 %
+ERB          24 mins         ███████░░░░░░░░░░░░░░░░░░   27.51 %
+SCSS         10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+CSS          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+```
+
 <!--END_SECTION:waka-->
 
 
