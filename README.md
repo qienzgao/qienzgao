@@ -52,14 +52,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2022 - To: 31 March 2022
+From: 25 March 2022 - To: 01 April 2022
 
-CSS            17 hrs 56 mins  ██████████▒░░░░░░░░░░░░░░   41.54 %
-JavaScript     10 hrs 36 mins  ██████░░░░░░░░░░░░░░░░░░░   24.55 %
-HTML           7 hrs 47 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
-SCSS           3 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-Markdown       2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-Ruby           38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+JavaScript     19 hrs 50 mins  █████████▒░░░░░░░░░░░░░░░   37.23 %
+CSS            17 hrs 56 mins  ████████▒░░░░░░░░░░░░░░░░   33.65 %
+HTML           7 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+SCSS           4 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Markdown       2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Ruby           1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
