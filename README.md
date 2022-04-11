@@ -52,12 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 April 2022 - To: 09 April 2022
+From: 03 April 2022 - To: 10 April 2022
 
-JavaScript   34 hrs 21 mins  ██████████████████▓░░░░░░   74.80 %
-SCSS         8 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   19.45 %
-Ruby         2 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-Other        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+JavaScript   32 hrs 45 mins  ██████████████████▓░░░░░░   75.16 %
+SCSS         8 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
+Ruby         2 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Other        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
