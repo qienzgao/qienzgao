@@ -3,7 +3,8 @@
 ## 👋 Hi, I'm [Qien][portfolio]
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&vCenter=true&lines=I'm+a+coder;I'm+a+foodie;I'm+a+cat-lover;I'm+an+artist) 
 
-#### 🔭 I’m currently working on <a href="https://github.com/qienzgao/Pinspire" target="_blank" ><img src="https://img.shields.io/badge/Pinspire-FF6347?style=for-the-badge" alt="Pinspire Badge"/></a>, a clone project of <a href="https://www.pinterest.com/"><img src="https://img.shields.io/badge/Pinterest-e60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Email Badge"/></a> 
+#### 🔭 I’m currently looking for an amazing team to join!
+<!-- working on <a href="https://github.com/qienzgao/Pinspire" target="_blank" ><img src="https://img.shields.io/badge/Pinspire-FF6347?style=for-the-badge" alt="Pinspire Badge"/></a>, a clone project of <a href="https://www.pinterest.com/"><img src="https://img.shields.io/badge/Pinterest-e60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Email Badge"/></a>  -->
 
 #### 📫 Reach me via <a href="https://www.linkedin.com/in/qiengao" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://angel.co/u/qien-gao" target="_blank" ><img src="https://img.shields.io/badge/AngelList-black?style=for-the-badge&logo=angellist&logoColor=white" alt="LinkedIn Badge"/></a> or shoot me an <a href="mailto:qienzgao@gmail.com?subject=[GitHub]" target="_blank" ><img src="https://img.shields.io/badge/Email-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a> 
 
