@@ -33,7 +33,7 @@
 
 #### 🌟 Take a peek of these projects my team and I created:
 <a href="https://github.com/qienzgao/Pinspire" target="_blank" >
-  <img src="https://img.shields.io/badge/Pinspire-FF6347?style=for-the-badge" alt="Pinspire Badge"/>
+  <img src="https://img.shields.io/badge/Pinspire-e60023?style=for-the-badge" alt="Pinspire Badge"/>
 </a>
 
 <a href="https://github.com/qienzgao/Master-of-Potions" target="_blank" >
