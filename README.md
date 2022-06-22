@@ -53,10 +53,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 June 2022 - To: 20 June 2022
+From: 14 June 2022 - To: 21 June 2022
 
-Python     44 mins         ████████████████████████▓   98.12 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Python   33 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
