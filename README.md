@@ -47,7 +47,7 @@
 <a href="https://pinspire-project.herokuapp.com/#/" target="_blank"><img src="https://github.com/qienzgao/qienzgao/blob/main/pinspire_preview.gif" width="260"/></a> <a href="https://qienzgao.github.io/Master-of-Potions/" target="_blank"><img src="https://github.com/qienzgao/qienzgao/blob/main/mop_pre.gif" width="260"/></a>  <a href="https://interview-mern.herokuapp.com/#/" target="_blank"><img src="https://github.com/qienzgao/qienzgao/blob/main/iv.gif" width="260"/></a>
 
 #### 🔥 My stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=qienzgao&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qienzgao&exclude_repo=KNN-Image-  Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=qienzgao&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qienzgao&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=qienzgao&hide_border=true" /> -->
 
 <!--START_SECTION:waka-->
