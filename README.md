@@ -53,9 +53,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 September 2022 - To: 08 September 2022
+From: 02 September 2022 - To: 09 September 2022
 
-Python   2 mins          █████████████████████████   100.00 %
+HTML     16 mins         █████████████░░░░░░░░░░░░   52.51 %
+CSS      12 mins         ██████████░░░░░░░░░░░░░░░   39.46 %
+Python   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
