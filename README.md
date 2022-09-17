@@ -53,11 +53,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 September 2022 - To: 15 September 2022
-
-HTML   16 mins         ██████████████▒░░░░░░░░░░   57.00 %
-CSS    12 mins         ██████████▓░░░░░░░░░░░░░░   42.83 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
